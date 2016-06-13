@@ -1,0 +1,8 @@
+C:\Users\michel\Downloads\Warframe.WebApi\Warframe.Lib\obj\Debug\Warframe.Lib.csprojResolveAssemblyReference.cache
+C:\Users\michel\Downloads\Warframe.WebApi\Warframe.Lib\bin\Debug\Warframe.Lib.dll
+C:\Users\michel\Downloads\Warframe.WebApi\Warframe.Lib\bin\Debug\Warframe.Lib.pdb
+C:\Users\michel\Downloads\Warframe.WebApi\Warframe.Lib\bin\Debug\HtmlAgilityPack.dll
+C:\Users\michel\Downloads\Warframe.WebApi\Warframe.Lib\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\michel\Downloads\Warframe.WebApi\Warframe.Lib\bin\Debug\HtmlAgilityPack.xml
+C:\Users\michel\Downloads\Warframe.WebApi\Warframe.Lib\obj\Debug\Warframe.Lib.dll
+C:\Users\michel\Downloads\Warframe.WebApi\Warframe.Lib\obj\Debug\Warframe.Lib.pdb

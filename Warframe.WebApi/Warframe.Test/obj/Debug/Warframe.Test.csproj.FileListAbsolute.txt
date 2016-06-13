@@ -1,0 +1,12 @@
+C:\Users\michel\Downloads\Warframe.WebApi\Warframe.Test\bin\Debug\Warframe.Test.dll
+C:\Users\michel\Downloads\Warframe.WebApi\Warframe.Test\bin\Debug\Warframe.Test.pdb
+C:\Users\michel\Downloads\Warframe.WebApi\Warframe.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\michel\Downloads\Warframe.WebApi\Warframe.Test\bin\Debug\Warframe.Lib.dll
+C:\Users\michel\Downloads\Warframe.WebApi\Warframe.Test\bin\Debug\HtmlAgilityPack.dll
+C:\Users\michel\Downloads\Warframe.WebApi\Warframe.Test\bin\Debug\Warframe.Lib.pdb
+C:\Users\michel\Downloads\Warframe.WebApi\Warframe.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\michel\Downloads\Warframe.WebApi\Warframe.Test\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\michel\Downloads\Warframe.WebApi\Warframe.Test\bin\Debug\HtmlAgilityPack.xml
+C:\Users\michel\Downloads\Warframe.WebApi\Warframe.Test\obj\Debug\Warframe.Test.csprojResolveAssemblyReference.cache
+C:\Users\michel\Downloads\Warframe.WebApi\Warframe.Test\obj\Debug\Warframe.Test.dll
+C:\Users\michel\Downloads\Warframe.WebApi\Warframe.Test\obj\Debug\Warframe.Test.pdb
